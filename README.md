@@ -1,6 +1,4 @@
 # HackMerlin Solver
-
-This project is an **auto-solver** for the HackMerlin challenge.  
 ---
 
 ## 🚀 How to Run
