@@ -44,7 +44,7 @@ You can find the full solver flowchart here:
 
 ---
 
-## 🛠️ Project Structure (simple)
+## 🛠️ Project Structure
 
 - **main.py** → Starts program, shows menu  
 - **solver.py** → Auto-solver loop (questions → guesses → submit)  
