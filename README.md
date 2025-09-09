@@ -39,7 +39,7 @@ Logs reset when a level is solved.
 
 ## 📊 Flowchart
 
-You can find the full solver flowchart here:  
+Flowchart here:  
 👉 [sample/hackmerlin_flow.pdf](sample/hackmerlin_flow.pdf)
 
 ---
